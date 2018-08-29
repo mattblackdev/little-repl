@@ -1,0 +1,25 @@
+{
+  "name": "code-swap",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/standalone": "^7.0.0-beta.38",
+    "@devexpress/dx-core": "1.0.0-rc.1",
+    "@devexpress/dx-grid-core": "1.0.0-rc.1",
+    "@devexpress/dx-react-core": "^1.0.0-rc.1",
+    "@devexpress/dx-react-grid": "^1.0.0-rc.1",
+    "@devexpress/dx-react-grid-material-ui": "^1.0.0-rc.1",
+    "babel-runtime": "^6.26.0",
+    "material-ui": "1.0.0-beta.29",
+    "material-ui-icons": "^1.0.0-beta.17",
+    "meteor-node-stubs": "^0.3.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-ace": "^5.9.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.0.2"
+  },
+  "devDependencies": {}
+}
